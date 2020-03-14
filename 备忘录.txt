@@ -1,4 +1,0 @@
-http://js.jirengu.com/yususavoto/1/edit?html,css,output
-请使用 transform、transition 和 :hover 制作一颗会动的红心。
-
-参考 http://js.jirengu.com/nonud/1/edit?html,css,output
